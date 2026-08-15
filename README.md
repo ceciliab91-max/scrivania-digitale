@@ -1,6 +1,6 @@
 # Hub Personale — Scrivania Digitale Integrata
 
-**Hub Personale** è una Single Page Application (SPA) moderna progettata come **Scrivania Digitale unificata**. L'applicazione permette di gestire in un unico spazio di lavoro centralizzato le attività personali, il portfolio/scrivania assicurativa, la gestione delle pratiche dello studio legale e la posta elettronica (PECs e mail ordinarie).
+**Hub Personale** è una Single Page Application (SPA) moderna progettata come **Scrivania Digitale unificata**. L'applicazione permette di gestire in un unico spazio di lavoro più attività: personali e lavorative. Questo progetto è creato per me che gestisco un ufficio legale e un ufficio assicurativo, quindi ci sono due scrivanie digitali: scrivania assicurativa e scrivania studio legal, ho aggiunto la scrivania personale e una sezione relativa alle PECs e mail ordinarie.
 
 ---
 

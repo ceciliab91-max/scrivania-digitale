@@ -1,4 +1,5 @@
 import { NavLink, Outlet } from "react-router";
+import AIAssistant from "../components/AIAssistant";
 
 export default function MainLayout() {
     return (
@@ -40,6 +41,7 @@ export default function MainLayout() {
                 <Outlet />
             </main>
 
+            <AIAssistant />
         </div>
     );
 }
